@@ -1,0 +1,16 @@
+com\productstore\entity\Customer.class
+com\productstore\repo\ProductRepo.class
+com\productstore\entity\Product.class
+com\productstore\service\impl\OrderServiceImpl.class
+com\productstore\starter\ProductConfig.class
+com\productstore\entity\Address.class
+com\productstore\service\IProductService.class
+com\productstore\entity\OrderDetail.class
+com\productstore\dao\IOrderDAO.class
+com\productstore\client\RestClient.class
+com\productstore\cors\CORSFilter.class
+com\productstore\controller\ProductController.class
+com\productstore\entity\Order.class
+com\productstore\service\IOrderService.class
+com\productstore\dao\impl\OrderDAO.class
+com\productstore\entity\CardDetails.class
